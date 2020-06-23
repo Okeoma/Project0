@@ -1,0 +1,23 @@
+#nav ul .about, #nav ul .contact, #nav ul .resources, #nav ul .main {
+  border: 2px solid white;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+#nav ul .main {
+  background-color: #9933ff;
+}
+
+#nav ul .resources {
+  background-color: #ff4dff;
+}
+
+#nav ul .contact {
+  background-color: #1ac6ff;
+}
+
+#nav ul .about {
+  background-color: orange;
+}
+
+/*# sourceMappingURL=inheritance.css.map */

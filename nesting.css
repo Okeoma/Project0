@@ -1,0 +1,31 @@
+#nest1 {
+  font-size: 18px;
+}
+#nest1 p {
+  color: blue;
+}
+#nest1 ul {
+  color: green;
+}
+
+#nest2 {
+  font-size: 18px;
+}
+#nest2 p {
+  color: brown;
+}
+#nest2 ul {
+  color: darkblue;
+}
+
+#nest3 {
+  font-size: 18px;
+}
+#nest3 p {
+  color: purple;
+}
+#nest3 ul {
+  color: darkred;
+}
+
+/*# sourceMappingURL=nesting.css.map */

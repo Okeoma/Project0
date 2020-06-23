@@ -1,0 +1,27 @@
+
+%links {
+      
+    border: 2px solid white;
+    font-size: 21px;
+	font-weight: bold;	
+       
+}   
+
+#nav ul .main {
+    @extend %links;
+    background-color: #9933ff;	
+}
+
+#nav ul .resources {
+    @extend %links;
+    background-color: #ff4dff;
+}
+
+#nav ul .contact {
+    @extend %links;
+    background-color: #1ac6ff;	
+}
+#nav ul .about {
+    @extend %links;
+    background-color: orange;	
+}
