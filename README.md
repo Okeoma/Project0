@@ -1,5 +1,4 @@
-**PROJECT0: **
-**IT training hub** is an IT training website that highlights programs offered in different mode (delivering lectures via the firm’s facility, client’s location or online).
+**PROJECT0: IT training hub** is an IT training website that highlights programs offered in different mode (delivering lectures via the firm’s facility, client’s location or online).
 
 **The programs offered are in 3 major categories, namely:**
 1.	**Computer Applications**: Comprises Office and Graphics/Design courses.
