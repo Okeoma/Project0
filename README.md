@@ -1,5 +1,7 @@
 **PROJECT0: IT training hub** is an IT training website that highlights programs offered in different mode (delivering lectures via the firm’s facility, client’s location or online).
 
+![Screenshot](https://github.com/Okeoma/Project0/blob/master/PrintscreenIT%20Project%20Hub.jpg)
+
 **The programs offered are in 3 major categories, namely:**
 1.	**Computer Applications**: Comprises Office and Graphics/Design courses.
 2.	**Computer programming**: Comprises Website Development and Object Oriented Programming courses.
